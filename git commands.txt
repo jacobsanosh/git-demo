@@ -1,0 +1,6 @@
+git init:to initalize an git
+git add filename:to add an file into staging area 
+git commit -m "message":to add an file into local repo and make commit
+
+git diff demo.txt:to see the change with previous commit and current file content
+git checkout demo.txt:it will change the content into previous content

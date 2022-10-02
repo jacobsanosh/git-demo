@@ -1,0 +1,9 @@
+[1mdiff --git a/demo3.txt b/demo3.txt[m
+[1mindex 8a3a6f7..8c13bdb 100644[m
+[1m--- a/demo3.txt[m
+[1m+++ b/demo3.txt[m
+[36m@@ -1 +1 @@[m
+[31m-created an third text file toadd it into the git[m
+\ No newline at end of file[m
+[32m+[m[32mcreated an third text file toadd it into the git skdghfisgdfivb[m
+\ No newline at end of file[m
