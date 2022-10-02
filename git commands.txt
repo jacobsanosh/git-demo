@@ -4,3 +4,11 @@ git commit -m "message":to add an file into local repo and make commit
 
 git diff demo.txt:to see the change with previous commit and current file content
 git checkout demo.txt:it will change the content into previous content
+
+git rm --cached -r .:to remove the commit
+
+to hide file we have to use .gitignore file and add the file that need be hide
+and commit it
+
+to clone an url
+git clone url
